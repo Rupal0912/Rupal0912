@@ -1,6 +1,6 @@
 ## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently on a data quest:<br>Exploring the realms of EDA, visualization, and machine learning.<br>🤝 Let’s team up:<br>Open to collaborating on Python-powered data science adventures.<br>✋ Seeking wisdom:<br>Curious about advanced stats and model deployment magic.<br>🌱 Growing my skills:<br>Nurturing my knowledge of pandas, seaborn, and scikit-learn.<br>💬 Pick my brain:<br>Love chatting about data insights and visualization tricks.<br>⚡ Fun fact:<br>I turn raw data into stories and unwind with music on repeat. 🎵
+#  About Me:
+I’m currently on a data quest:<br>Exploring the realms of EDA, visualization, and machine learning.<br> Let’s team up:<br>Open to collaborating on Python-powered data science adventures.<br> Seeking wisdom:<br>Curious about advanced stats and model deployment magic.<br> Growing my skills:<br>Nurturing my knowledge of pandas, seaborn, and scikit-learn.<br>💬 Pick my brain:<br>Love chatting about data insights and visualization tricks.<br> Fun fact:<br>I turn raw data into stories and unwind with music on repeat. 
 
 
 ## 🌐 Socials:
