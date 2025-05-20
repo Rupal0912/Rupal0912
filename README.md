@@ -1,6 +1,6 @@
 ## Hi there 👋
 #  About Me:
-I’m currently on a data questLet’s team up:<br>Open to collaborating on Python-powered data science adventures.
+I’m currently on a data quest. <br>Let’s team up:<br>Open to collaborating on Python-powered data science adventures.
 
 
 ## Socials:
