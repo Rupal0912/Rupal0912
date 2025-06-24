@@ -26,15 +26,9 @@ Open to collaborating on **Python-powered data science adventures**!
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 🚀 Featured Projects (Coming Soon)
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| `🔍 DataQuest Dashboard` | A dashboard tracking real-time analytics using Python & Pandas. | Python, Plotly |
-| `📊 Sales Insight System` | Sales data visualizer with monthly trend reports. | NumPy, Matplotlib |
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-074463?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -44,31 +38,12 @@ Open to collaborating on **Python-powered data science adventures**!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupal0912&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![Streak Stats](https://streak-stats.demolab.com?user=Rupal0912&theme=radical&hide_border=false)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupal0912&layout=compact&theme=radical&hide_border=false)
 
 </div>
 
 ---
 
-## 🏷️ My GitHub Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rupal0912&style=flat-square&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/Rupal0912?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Rupal0912?affiliations=OWNER&style=social)
-![Commits](https://img.shields.io/github/commit-activity/m/Rupal0912/Rupal0912?label=Repo%20Activity)
-![Last Commit](https://img.shields.io/github/last-commit/Rupal0912/Rupal0912?style=flat-square)
-
----
-
-## 📈 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=Rupal0912&icon=0&color=2)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
