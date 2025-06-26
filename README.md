@@ -36,7 +36,7 @@ Open to collaborating on **Python-powered data science adventures**!
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupal0912&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rupal0912&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Rupal0912&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupal0912&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
